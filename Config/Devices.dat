@@ -1,0 +1,51 @@
+1/HK103ES1/Mạch nhân 1_P3.1/1/Enable/Disconnected/0/AC/AC OFF lộ 1/
+2/HK103ES2/Mạch nhân 1_P3.1/2/Enable/Disconnected/0/AC/AC OFF lộ 2/
+3/HK103BR1/Mạch nhân 1_P3.1/3/Enable/Disconnected/0/DC/HK103BR1_Tủ nguồn_Cảnh báo/
+4/HK103BR2/Mạch nhân 1_P3.1/4/Enable/Disconnected/0/DC/HK103BR2_Tủ nguồn_Cảnh báo/
+5/HK103BR3/Mạch nhân 1_P3.1/5/Enable/Disconnected/0/DC/HK103BR3_Tủ nguồn_Cảnh báo/
+6/HK103BR4/Mạch nhân 1_P3.1/6/Enable/Disconnected/0/DC/HK103BR4_Tủ nguồn_Cảnh báo/
+7/HK103BR5/Mạch nhân 1_P3.1/7/Enable/Disconnected/0/DC/HK103BR5_Tủ nguồn_Cảnh báo/
+8/HK103BR6/Mạch nhân 1_P3.1/8/Enable/Disconnected/0/DC/HK103BR6_Tủ nguồn_Cảnh báo/
+9/HK103BU1/Mạch nhân 1_P3.1/9/Enable/Disconnected/0/DC/HK103BU1_UPS_Cảnh báo/
+10/HK103BA17/Mạch nhân 2_P3.1/1/Enable/Disconnected/0/DHCX/HK103BA17_ĐHCX_Cảnh báo/
+11/HK103BA2/Mạch nhân 2_P3.1/2/Enable/Disconnected/0/DHCX/HK103BA2_ĐHCX_Cảnh báo/
+12/HK103BA3/Mạch nhân 2_P3.1/3/Enable/Disconnected/0/DHCX/HK103BA3_ĐHCX_Cảnh báo/
+13/P3.1_H.TEMP/Mạch nhân 2_P3.1/4/Enable/Disconnected/0/DHCX/P3.1_H.TEMP_Cảnh báo nhiệt độ cao P3.1/
+14/HK103BA1/Mạch nhân 2_P3.1/5/Enable/Disconnected/0/DHCX/HK103BA1_ĐHCX_Cảnh báo/
+15/HK103BA6/Mạch nhân 2_P3.1/6/Enable/Disconnected/0/DHCX/HK103BA6_ĐHCX_Cảnh báo/
+16/HK103BA7/Mạch nhân 2_P3.1/7/Enable/Disconnected/0/DHCX/HK103BA7_ĐHCX_Cảnh báo/
+17/HK103BR7/Mạch nhân 2_P3.1/8/Enable/Disconnected/0/DC/HK103BR7_DC_Cảnh báo/
+18/HK103BR8/Mạch nhân 2_P3.1/9/Enable/Disconnected/0/DC/HK103BR8_DC_Cảnh báo/
+19/P3.1_EP/Mạch nhân 2_P3.1/10/Enable/Disconnected/0/UAC/P3.1_EP_UAC_CB Trip/
+20/WaterLead_T3/Mạch nhân 2_P3.1/11/Enable/Disconnected/0/Other/WaterLead_T3_Cảnh báo rò nước/
+21/HK103BU3/Mạch nhân 4_P3.1/1/Enable/Disconnected/0/UAC/HK103BU3_UAC_Cảnh báo/
+22/HK103BU4/Mạch nhân 4_P3.1/2/Enable/Disconnected/0/UAC/HK103BU4_UAC_Cảnh báo/
+23/HK103BA4/Mạch nhân 4_P3.1/3/Enable/Disconnected/0/DHCX/HK103BA4_DHCX_Cảnh báo/
+24/HK103BA5/Mạch nhân 4_P3.1/4/Enable/Disconnected/0/DHCX/HK103BA5_DHCX_Cảnh báo/
+25/HK103BA8/Mạch nhân 4_P3.1/5/Enable/Disconnected/0/DHCX/HK103BA8_DHCX_Cảnh báo/
+26/HK103BA9/Mạch nhân 4_P3.1/6/Enable/Disconnected/0/DHCX/HK103BA9_DHCX_Cảnh báo/
+27/HK103BA10/Mạch nhân 4_P3.1/7/Enable/Disconnected/0/DHCX/HK103BA109_DHCX_Cảnh báo/
+28/HK103BA18/Mạch nhân 4_P3.1/8/Enable/Disconnected/0/DHCX/HK103BA18_DHCX_Cảnh báo/
+29/HK103BR9/Mạch nhân 4_P3.1/9/Enable/Disconnected/0/DC/HK103BR9_DC_Cảnh báo/
+30/HK103BR10/Mạch nhân 4_P3.1/10/Enable/Disconnected/0/DC/HK103BR10_DC_Cảnh báo/
+31/HK103BR11/Mạch nhân 4_P3.1/11/Enable/Disconnected/0/DC/HK103BR11_DC_Cảnh báo/
+32/HK103BR12/Mạch nhân 4_P3.1/12/Enable/Disconnected/0/DC/HK103BR12_DC_Cảnh báo/
+33/HK103BA22/Mạch nhân âm sàn_P3.1/1/Enable/Disconnected/0/DHCX/HK103BA22_DHCX_Cảnh báo/
+34/HK103BA23/Mạch nhân âm sàn_P3.1/2/Enable/Disconnected/0/DHCX/HK103BA23_DHCX_Cảnh báo/
+35/HK103BA24/Mạch nhân âm sàn_P3.1/3/Enable/Disconnected/0/DHCX/HK103BA24_DHCX_Cảnh báo/
+36/HK103BA25/Mạch nhân âm sàn_P3.1/4/Enable/Disconnected/0/DHCX/HK103BA25_DHCX_Cảnh báo/
+37/HK103BA26/Mạch nhân âm sàn_P3.1/5/Enable/Disconnected/0/DHCX/HK103BA26_DHCX_Cảnh báo/
+38/HK103BA27/Mạch nhân âm sàn_P3.1/6/Enable/Disconnected/0/DHCX/HK103BA27_DHCX_Cảnh báo/
+39/HK103BA28/Mạch nhân âm sàn_P3.1/7/Enable/Disconnected/0/DHCX/HK103BA28_DHCX_Cảnh báo/
+40/HK103BR13/Mạch nhân âm sàn_P3.1/8/Enable/Disconnected/0/DC/HK103BR13_DC_Cảnh báo/
+41/HK103BR14/Mạch nhân âm sàn_P3.1/9/Enable/Disconnected/0/DC/HK103BR14_DC_Cảnh báo/
+42/P3.2_EP/Mạch nhân âm sàn_P3.1/10/Enable/Disconnected/0/UAC/P3.1_EP_UAC_CB Trip/
+43/L2ES_1/Mạch nhân LAB/1/Enable/Disconnected/0/AC/L2ES_1_AC_Cảnh báo ACLAB_Lộ 1/
+44/L2ES_2/Mạch nhân LAB/2/Enable/Disconnected/0/AC/L2ES_2_AC_Cảnh báo ACLAB_Lộ 2/
+45/L2BR1/Mạch nhân LAB/3/Enable/Disconnected/0/DC/L2BR1_Cảnh báo/
+46/L2BR2/Mạch nhân LAB/4/Enable/Disconnected/0/DC/L2BR2_Cảnh báo/
+47/L2BA/Mạch nhân LAB/5/Enable/Disconnected/0/DHCX/L2BA_ĐHCX_Cảnh báo/
+48/EG1_ALARM/Mạch nhân LAB/6/Enable/Disconnected/0/Other/EG1_ALARM_Cảnh báo/
+49/EG2_ALARM/Mạch nhân LAB/7/Enable/Disconnected/0/Other/EG1_ALARM_Cảnh báo/
+50/FireAlarmT1/Mạch nhân LAB/8/Enable/Disconnected/0/Other/FireAlarm/
+51/WaterLead_Lab/Mạch nhân LAB/10/Enable/Disconnected/0/Other/WaterLead_Lab/
